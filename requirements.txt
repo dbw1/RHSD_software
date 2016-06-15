@@ -1,0 +1,6 @@
+Requirements:
+
+	PyQt5
+	Qt_Designer
+	Python 3
+
